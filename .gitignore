@@ -1,0 +1,19 @@
+# Python __pycache__ dan bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# File output
+*.txt
+
+# File Excel (opsional, kalau gak mau upload)
+*.xlsx
+
+# Jupyter
+*.ipynb_checkpoints
+
+# VSCode setting (opsional)
+.vscode/
